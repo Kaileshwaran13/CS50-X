@@ -1,3 +1,5 @@
+---
+
 # Basic Calculator in C
 
 Welcome to the Basic Calculator in C repository! This project provides a simple yet effective console-based calculator program implemented in the C programming language. Whether you're a beginner seeking to understand the foundational aspects of C or someone in need of a lightweight calculator tool, this project is designed to be a helpful resource.
