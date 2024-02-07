@@ -53,13 +53,3 @@ Let's say you want to add two numbers, 5 and 3. To do this, follow these steps:
 4. Enter the operator for addition: `Operator = +`
 5. The program will display the equation: `Given Equation: 5 + 3`
 6. The result will be shown: `Answer of "5 + 3 = 8"`
-
-Feel free to perform other arithmetic operations such as subtraction, multiplication, and division using the respective operators.
-
-## License
-
-This calculator program is open-source and available under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
-
-Feel free to contribute by submitting issues or pull requests.
-
-Happy calculating!
